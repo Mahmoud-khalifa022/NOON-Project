@@ -1,0 +1,405 @@
+.noon-header
+{
+    background-color: yellow;
+}
+.noon-header.noon-logo
+{
+    float: left;
+}
+.noon-header.header-input
+{
+    float: left;
+}
+.noon-header.register-link
+{
+    float: right;
+}
+.noon-header .noon-logo
+{
+    
+    width: 30%;
+    float: left;
+} 
+.noon-header .noon-logo .header-img 
+{
+    
+    width: 48%;
+    float: left;
+    
+}
+.noon-header .noon-logo .header-img img
+{
+    width: 95%;
+    
+}
+
+.noon-header .noon-logo .deliver
+{
+   
+    width: 48%;
+    float: right;
+    
+}
+.noon-header .noon-logo .deliver img
+{
+    width: 30%;
+}
+.noon-header .noon-logo .deliver p
+{
+   display: inline
+}
+
+.noon-header .header-input 
+{
+    align-items: center;
+}
+.noon-header .header-input input
+{
+    width:40%;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+    
+}
+
+.noon-header .register-link
+{
+    
+    
+    width: 25%;
+    
+    float: right;
+}
+.noon-header .register-link .register-links a
+{
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+.noon-header .register-link .register-links p
+{
+    
+    display: inline;
+    font-size: 20px;
+}
+.noon-header .register-link .register-links a img
+{
+    width: 10%;
+    
+    
+}
+
+.products .product-1,.products .product-2,.products .product-3,.products .product-4,.products .product-5,.products .product-6,.products .product-7,.products .product-8
+{
+    text-align: center;
+    
+    float: left;
+}
+
+.products .product-1 img,.products .product-2 img,.products .product-3 img,.products .product-4 img,.products .product-5 img,.products .product-6 img,.products .product-7 img,.products .product-8 img
+{
+    margin-top: 20px;
+    width: 50%;   
+     
+}
+.products .product-1 a,.products .product-2 a,.products .product-3 a,.products .product-4 a,.products .product-5 a,.products .product-6 a,.products .product-7 a,.products .product-8 a      
+{
+     text-decoration: none;
+     font-size: 15px;
+     font-weight: bold;
+     color: black;
+
+     
+}
+ .different-products .infocus
+{
+    background-color: white;
+    width: 30%;
+    float: left;
+} 
+.different-products .infocus>p
+{
+    font-weight:bold;
+    font-size: larger;
+}
+
+.infocus .infocus-1 ,.infocus .infocus-2 ,.infocus .infocus-3,.infocus .infocus-4
+{
+    background-color: rgb(181, 195, 209);
+    margin: 10px;
+    width: 45%;
+    text-align: center;
+    
+    float: left;
+}
+
+.infocus .infocus-1 img,.infocus .infocus-2 img,.infocus .infocus-3 img ,.infocus .infocus-4 img
+{
+    width: 95%;
+}
+
+.infocus .infocus-1 a,.infocus .infocus-2 a,.infocus .infocus-3 a ,.infocus .infocus-4 a
+{
+    text-decoration: none;
+    color: black;
+}
+.mega-deals
+{
+    background-color: rgb(247, 247, 142);
+    width: 35%;
+    float: left;
+}
+.mega-deals>p
+{
+    font-weight:bold;
+    font-size: larger;
+}
+
+.mega-deals .mega-deal-1,.mega-deals .mega-deal-2,.mega-deals .mega-deal-3,.mega-deals .mega-deal-4
+{
+    width: 45%;
+    margin:10px ;
+    text-align: center;
+    float: left;
+}
+.mega-deals .mega-deal-1 img,.mega-deals .mega-deal-2 img,.mega-deals .mega-deal-3 img,.mega-deals .mega-deal-4 img
+{
+    width: 95%;
+}
+.mega-deals .mega-deal-1 a,.mega-deals .mega-deal-2 a,.mega-deals .mega-deal-3 a,.mega-deals .mega-deal-4 a
+{
+    text-decoration: none;
+    color: black;
+}
+
+ .different-products .reason-shop
+{
+    
+    width: 35%;
+    float: right;
+} 
+.different-products .reason-shop>p
+{
+    font-weight:bold;
+    font-size: larger;
+}
+.reason-shop .shop-1,.reason-shop .shop-2,.reason-shop .shop-3,.reason-shop .shop-4
+{
+    background-color: rgb(181, 195, 209);
+    width: 45%;
+    margin: 10px;
+    text-align: center;
+    float: left;
+}
+.reason-shop .shop-1 a,.reason-shop .shop-2 a,.reason-shop .shop-3 a,.reason-shop .shop-4 a
+{
+    text-decoration: none;
+    color: black;
+    
+}
+.reason-shop .shop-1 img,.reason-shop .shop-2 img,.reason-shop .shop-3 img,.reason-shop .shop-4 img
+{
+    width: 95%;
+}
+.mega-deal-4
+{
+    position: relative;
+}
+.mega-deal-note p
+{
+    font-weight: bold;
+    background-color: yellow;
+    color: red;
+}
+.mega-deal-note
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.infocus .infocus-1 .infocus1-1
+{
+    font-size: 20px;
+    font-weight:bolder;
+    margin: 5px;
+    text-align: left;
+}
+.infocus .infocus-1 .infocus1-2
+{
+    text-align: left;
+    font-size: 15px;
+}
+.hot-deals
+{
+    margin-top: 20px;
+   
+}
+
+.deals-header .header-title
+{
+    font-size: 20px;
+    font-weight: 900;
+    float: left;
+
+}
+.deals-header .header-button
+{
+    
+    float: right;
+}
+.deals-header .header-button button
+{
+    background-color: white;
+    padding: 7px;
+    font-weight: bold;
+}
+
+.deals-products .product-1,.deals-products .product-2,.deals-products .product-3,.deals-products .product-4,.deals-products .product-5
+{
+
+    
+    width:20%;
+    float: left;
+}
+.product-1 .price-now,.product-2 .price-now,.product-3 .price-now,.product-4 .price-now,.product-5 .price-now
+{
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.product-1 p,.product-2 p,.product-3 p,.product-4 p,.product-5 p
+{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.product-1 del,.product-2 del,.product-3 del,.product-4 del,.product-5 del
+{
+    font-size: 15px;
+    color:rgb(87, 80, 80);
+}
+.product-1
+{
+position: relative;
+}
+.product-note
+{
+    position: absolute;
+    top: 0px;
+    left: 0;
+    color: rgb(113, 113, 209);
+    border: 1px solid black;
+    padding: 2px;
+    font-size: 10px;
+    font-weight: 800;
+
+}
+
+.product-2,.product-4
+{
+    
+    position: relative;
+}
+.product-2-note,.product-4-note
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: black;
+    color: yellow;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.men-title
+{
+    font-size: 20px;
+    font-family: 'Secular One', sans-serif;
+    font-weight: 900;
+    float: left;
+}
+.men-title .men-sale
+{
+    color: rgb(91, 91, 170);
+}
+.men-button
+{
+    
+    float: right;
+}
+.men-button button
+{
+    background-color:black;
+    border: none;
+    color: white;
+    padding: 20px;
+    font-weight: 700;
+    font-family: 'Secular One', sans-serif;
+}
+.men-products
+{
+    background-color: blueviolet;
+}
+.men-product-1
+{
+    
+    float: left;
+    width: 15%;
+    text-align: center;
+    margin: 10px;
+}
+.men-product-1 a
+{
+    text-decoration: none;
+}
+.men-product-1 .product-price
+{
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(108, 82, 131);
+}
+.men-product-1 .product-type
+{
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.clr
+{
+    clear: both;
+}
